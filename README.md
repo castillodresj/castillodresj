@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning technical writing and basic coding.
 - 🌱 I’m currently learning Markdown, HTML, and XML.
 - 💞️ I’m looking to collaborate on anything, really.
-- 📫 You can reach me at andrescastillowrite@gmail.com.
+- 📫 You can reach me at andrescastillowrite@gmail.com for writing-related work and castillodresj@gmail.com for general inquiries.
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: I play guitar in a metalcore band.
 
